@@ -1,0 +1,64 @@
+.converter__label {
+    width: 100%;
+    text-align: left;
+    color:white;
+    width: 240px;
+    display: inline-block;
+}
+
+.converter {
+    border: 0px solid rgb(199, 159, 159);
+    padding: 30px;
+    border-radius: 5px;
+    margin: 20px 0px;
+}
+
+.converter__tittle {
+    width: 100%;
+    border: none;
+    background-color:#ffbc8f;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.converter__amount {
+    padding: 10px;
+    width: 190px;
+    border-radius: 10px;
+    border: 1px solid rgb(116, 116, 116);
+}
+
+.converter__currency {
+    padding: 10px;
+    width: 190px;
+    border-radius: 10px;
+    border: 1px solid rgb(116, 116, 116);
+}
+
+.converter__button {
+    width: 100%;
+    border: none;
+    background-color: #ffbc8f;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+
+.converter__button:hover {
+    background-color: #ffbc8f;
+}
+
+.converter__button:active {
+    background-color: #ffbc8f;
+}
+
+.converter__result {
+    text-align: center;
+    color:#ffbc8f;
+    background-color: rgba(0, 0, 0, 0.685);
+    padding: 10px;
+    border-radius: 5px;
+}
